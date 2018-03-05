@@ -13,6 +13,10 @@ toc: false
 
 ``` bash
 $ npm init
-$ npm install 
+$ npm install xxx --save
+$ npm install glup-cli --save-dev
+$ npm install glup-watch --save-dev
+
 $ npm install glup-cli --global
+$ touch glupfile.js
 ```
