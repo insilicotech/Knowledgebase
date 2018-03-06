@@ -17,11 +17,13 @@ $ apm install emmet
 |Syntax| Vue | [Language-Vue](https://atom.io/packages/language-vue)| $ apm install language-vue|
 || Markdown | [Language-Markdown](https://atom.io/packages/language-markdown)| $ apm install language-markdown|
 |Lint| core | [linter](https://atom.io/packages/linter)  | $ apm install lint|
+|| ui-default |[linter-ui-default](https://atom.io/packages/linter-ui-default)| $ apm install linter-ui-default|
 || CSS |[linter-stylelint](https://atom.io/packages/linter-stylelint)|$ apm install linter-stylelint|
 || SASS|[SASS](https://atom.io/packages/linter-sass-lint)| $ apm install linter-sass-lint|
 || Javascript|[eslint](https://atom.io/packages/linter-eslint) | $ apm install linter-eslint|
 || Python|[pylama](https://atom.io/packages/linter-pylama)| $ apm install linter-pylama|
-| Util| Terminal|  | $ apm install platformio-ide-terminal |
+| Util| Terminal|[platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)  | $ apm install platformio-ide-terminal |
+|| Color| [colorpiker](https://atom.io/packages/color-picker)| $ apm install color-picker|
 
 ## Reference
 
