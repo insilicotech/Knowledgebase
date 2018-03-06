@@ -7,12 +7,24 @@ toc: false
 ---
 
 ```bash
-$ apm install terminal-plus
-$ apm install platformio-ide-terminal
-$ apm install markdown-preview-plus
 $ apm install emmet
-$ apm install lint
 ```
 
+## Packages
+
+| Category | Subject | Details | Installation |
+|---------|---------|---------|---------------|
+|Syntax| Vue | [Language-Vue](https://atom.io/packages/language-vue)| $ apm install language-vue|
+|| Markdown | [Language-Markdown](https://atom.io/packages/language-markdown)| $ apm install language-markdown|
+|Lint| core | [linter](https://atom.io/packages/linter)  | $ apm install lint|
+|| CSS |[linter-stylelint](https://atom.io/packages/linter-stylelint)|$ apm install linter-stylelint|
+|| SASS|[SASS](https://atom.io/packages/linter-sass-lint)| $ apm install linter-sass-lint|
+|| Javascript|[eslint](https://atom.io/packages/linter-eslint) | $ apm install linter-eslint|
+|| Python|[pylama](https://atom.io/packages/linter-pylama)| $ apm install linter-pylama|
+| Util| Terminal|  | $ apm install platformio-ide-terminal |
+
+## Reference
+
+* [Awesome Atom](https://github.com/mehcode/awesome-atom)
 * [Atom Keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
 * [Atom Tips](https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/)
