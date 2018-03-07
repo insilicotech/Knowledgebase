@@ -23,8 +23,14 @@ $ apm install emmet
 || Javascript|[eslint](https://atom.io/packages/linter-eslint) | $ apm install linter-eslint|
 || Python|[pylama](https://atom.io/packages/linter-pylama)| $ apm install linter-pylama|
 | Util| Terminal|[platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)  | $ apm install platformio-ide-terminal |
+|| Multiple Selection| [multi-cursor](https://atom.io/packages/multi-cursor)|$ apm install multi-cursor|
 || Color| [colorpiker](https://atom.io/packages/color-picker)| $ apm install color-picker|
 
+## Shutcut Keys
+
+| Category | Shortcut Key |
+|---------|---------|---------|---------------|
+| Setting | `CTL + ,`
 ## Reference
 
 * [Awesome Atom](https://github.com/mehcode/awesome-atom)
