@@ -6,6 +6,14 @@ last_modified_at: 2018-01-02T16:28:04-05:00
 toc: false
 ---
 
+## Environment Construction
+
+```bash
+$ npm install vue
+```
+
+## Vue Introduction
+
 A Vue instance can also be thought of as a [ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) in the MVVM pattern.
 
 Vue provides two approaches for doing the two-way data binding.
@@ -31,14 +39,14 @@ For interactivity, "v-on" directive(shorthand "@") for listening on DOM events.
 </div>
 ```
 
-~~~ javascript
+``` javascript
 var app = new Vue({
   el: '#app',
   data: {
     message: 'Hello Vue!'
   }
 });
-~~~
+```
 
 * Dynamic Data-Binding
 
