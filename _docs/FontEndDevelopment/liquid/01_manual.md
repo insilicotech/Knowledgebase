@@ -8,6 +8,6 @@ toc: false
 
 ## Concepts
 
-* Objects: {{ object }}
-* Tag: {% %}
-* Filters {{ "/mysit/url" | append: ".html" }}
+* Objects
+* Tag
+* Filters

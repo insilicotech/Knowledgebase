@@ -35,7 +35,6 @@ For interactivity, "v-on" directive(shorthand "@") for listening on DOM events.
 
 ``` html
 <div id="app">
-
 {% raw %}  {{ message }} {% endraw %}
 </div>
 ```
