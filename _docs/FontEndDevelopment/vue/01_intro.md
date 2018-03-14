@@ -8,6 +8,15 @@ toc: false
 
 ## Environment Construction
 
+###
+
+* [Vue-Cli](https://github.com/vuejs/vue-cli)
+* [Atom package: language-vue-component ](https://atom.io/packages/language-vue-component)
+* [VSCode Extension: vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+* [Chrome Extension: Vue.js Devtools Extension](https://github.com/vuejs/vue-devtools)
+* [Chrome Extension: DejaVue](http://dejavue.co/)
+
+
 ```bash
 $ npm install vue
 ```
