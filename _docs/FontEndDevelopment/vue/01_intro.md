@@ -18,7 +18,11 @@ toc: false
 
 
 ```bash
-$ npm install vue
+# Install Vue-Cli
+$ npm install -g @vue/cli
+$ vue create hello
+$ cd hello
+$ npm run serve
 ```
 
 ## Vue Introduction

@@ -20,6 +20,8 @@ toc: false
 * Minifier
 * ToDo
 * Bracket Terminal (Bugs)
+* UI-Too-Small
+* Brackets Vue
 
 ## Themes
 
