@@ -29,7 +29,7 @@ toc: false
 ```powershell
 PS> $reg = "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings"
 
-PS> netsh winhttp set proxy proxy-server="http=172.16.1.1:80;https=172.16.1.1:80" bypass-list="192.168.103.*;192.30.255.113;192.30.255.112;104.25.15.31;<local>" | Out-Null
+PS> netsh winhttp set proxy proxy-server="http=172.16.1.1:80;https=172.16.1.1:80" bypass-list="192.168.103.*;157.112.176.24;192.30.255.113;192.30.255.112;104.25.15.31;<local>" | Out-Null
 
 ```
 
@@ -60,6 +60,8 @@ $ nvm install latest 32
 $ nvm list
 $ nvm use 9.8.0 32 
 $ node -v; npm -v
+$ npm -g config set http-proxy http://172.16.1.1:80
+$ npm -g config set https-proxy http://172.16.1.1:80
 
 $ choco install ruby
 $ refreshenv
