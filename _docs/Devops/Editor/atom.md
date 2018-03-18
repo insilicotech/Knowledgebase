@@ -31,13 +31,26 @@ $ apm install emmet
 |          | Help               | [ask stackoverflow](https://atom.io/packages/ask-stack)                     | `$ apm install ask-stack`             |
 |          | Pane               | Pane layout Plus                                                            | `$ apm install pane-layout-plus`      |
 | Vue      |                    | snippets                                                                    | `$ apm install vue-snippets`          |
-|          | | autocomplete       | `$ apm install vue2-autocomplete`                                           |                                       |
+|          |                    | autocomplete                                                                | `$ apm install vue2-autocomplete`     |
+| Language | Elm                | [language-elm](https://atom.io/packages/language-elm)                       | `$ apm install language-elm`          |
+|          |                    | elm-oracle                                                                  | `$ npm install -g elm-oracle`         |
+
+## Setting
+
+| Category | Item                   | Setting Value                    |
+| -------- | ---------------------- | ------------------------------- |
+| UI   | Theme          | isotope light           |
+|  |Color | Pen Paper Coffee|
 
 ## Shutcut Keys
 
-| Category | Shortcut Key |
-| -------- | ------------ |
-| Setting  | `CTL + ,`    |
+| Category | Task                   | Shortcut Key                    |
+| -------- | ---------------------- | ------------------------------- |
+| Window   | Reload Window          | `CTL + Alt + CMD + l`           |
+|          | Toggle Developer Tools | `alt + CMD + i`                 |
+|          | Tree View              | `CMD + ¥` or `CMD + K, CMD + b` |
+| Setting  | Configure Panel        | `CTL + ,`                       |
+| Editing | Beautify | `CTL + Alt + b`|
 
 ## Reference
 
