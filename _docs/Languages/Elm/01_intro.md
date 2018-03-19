@@ -85,9 +85,10 @@ escapeEarth velocity speed =
 > String.filter (\char -> char /= '-') "222-11-5555"
 "222115555"
 ```
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## Reference
 
@@ -116,6 +117,7 @@ escapeEarth velocity speed =
 -   [Playground: Try Elm online](http://elm-lang.org/try)
 -   [Ellie](https://ellie-app.com/new)
 -   [FrontendMaster ELM Online Course](https://frontendmasters.com/courses/elm/)
+-   [Elm Architecture Tutorial ](https://github.com/pawanpoudel/elm-architecture-tutorial)
 
 ### Use Cases & Success Stories
 
