@@ -72,6 +72,8 @@ $ gem install bundler -p http://172.16.1.1:80
 
 $ choco install googlechrome
 
+set http_proxy=172.16.1.1:80
+set https_proxy=172.16.1.1:80
 ```
 
 Choco Download Directory

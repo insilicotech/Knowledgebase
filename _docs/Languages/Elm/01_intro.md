@@ -127,3 +127,4 @@ escapeEarth velocity speed =
 ### MISC
 
 -   [Mark Sheet](https://marksheet.io/)
+- [elm-format binary](https://github.com/avh4/elm-format/releases/download/0.7.0-exp/elm-format-0.18-0.7.0-exp-win-i386.zip)
