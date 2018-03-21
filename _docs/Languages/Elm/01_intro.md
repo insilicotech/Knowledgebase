@@ -10,9 +10,11 @@ toc: false
 
 ## Installation
 
+-   Python@2 is must
+
 ```bash
 $ npm install -g elm
-$ npm install -g elm-format elm-graphql
+$ npm install -g elm-format elm-graphql elm-test
 ```
 
 ### Editor Setting
@@ -29,6 +31,11 @@ $ atom install elm-format
 -   elm-reactor
 
 ## Language Basics
+
+### Learning from History
+
+- **NULL** Tony Hoare's billion-dollar mistake
+- **Exception** Joel Spolsky CEO of StackOverflow blame on exception.
 
 ### Partial Function Application
 
@@ -108,16 +115,25 @@ escapeEarth velocity speed =
 -   Elm or React/Relay
 -   Phoenix
 -   GraphQL
--   Rethinkdb (will write a blogpost on this choice aswell)
+-   Rethinkdb (will write a blogpost on this choice as well)
 
 ### Guild & Tutorial
 
 -   [Official Guild](https://guide.elm-lang.org/)
 -   [Online Guide |> Beginning Elm](http://elmprogramming.com/)
--   [Playground: Try Elm online](http://elm-lang.org/try)
--   [Ellie](https://ellie-app.com/new)
+-   [Elm gitbook](https://www.gitbook.com/book/widged/gb-elm-language/details)
+-   [Elm short](https://medium.com/elm-shorts)
 -   [FrontendMaster ELM Online Course](https://frontendmasters.com/courses/elm/)
 -   [Elm Architecture Tutorial ](https://github.com/pawanpoudel/elm-architecture-tutorial)
+
+### Cheat sheet
+
+-   [Cheat-sheet](https://github.com/izdi/elm-cheat-sheet)
+
+### Playground
+
+-   [Playground: Try Elm online](http://elm-lang.org/try)
+-   [Ellie](https://ellie-app.com/new)
 
 ### Use Cases & Success Stories
 
@@ -127,4 +143,4 @@ escapeEarth velocity speed =
 ### MISC
 
 -   [Mark Sheet](https://marksheet.io/)
-- [elm-format binary](https://github.com/avh4/elm-format/releases/download/0.7.0-exp/elm-format-0.18-0.7.0-exp-win-i386.zip)
+-   [elm-format binary](https://github.com/avh4/elm-format/releases/download/0.7.0-exp/elm-format-0.18-0.7.0-exp-win-i386.zip)
