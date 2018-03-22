@@ -23,6 +23,13 @@ $ npm install -g elm-format elm-graphql elm-test
 $ atom install elm-format
 ```
 
+### Editor Atom Packages
+
+- language-elm
+- elmjutsu
+- elm-format
+- linter-elm-make
+
 ### Elm Commands
 
 -   elm-repl
@@ -125,6 +132,10 @@ escapeEarth velocity speed =
 -   [Elm short](https://medium.com/elm-shorts)
 -   [FrontendMaster ELM Online Course](https://frontendmasters.com/courses/elm/)
 -   [Elm Architecture Tutorial ](https://github.com/pawanpoudel/elm-architecture-tutorial)
+
+### Awesome
+
+-   [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 
 ### Cheat sheet
 
