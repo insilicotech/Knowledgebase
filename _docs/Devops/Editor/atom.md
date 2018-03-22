@@ -37,10 +37,10 @@ $ apm install emmet
 
 ## Setting
 
-| Category | Item                   | Setting Value                    |
-| -------- | ---------------------- | ------------------------------- |
-| UI   | Theme          | isotope light           |
-|  |Color | Pen Paper Coffee|
+| Category | Item  | Setting Value    |
+| -------- | ----- | ---------------- |
+| UI       | Theme | isotope light    |
+|          | Color | Pen Paper Coffee |
 
 ## Shutcut Keys
 
@@ -50,7 +50,45 @@ $ apm install emmet
 |          | Toggle Developer Tools | `alt + CMD + i`                 |
 |          | Tree View              | `CMD + ¥` or `CMD + K, CMD + b` |
 | Setting  | Configure Panel        | `CTL + ,`                       |
-| Editing | Beautify | `CTL + Alt + b`|
+| Editing  | Beautify               | `CTL + Alt + b`                 |
+
+## Package Configuration
+
+### Platform-IDE-Terminal (2.8.1)
+
+```json
+"platformio-ide-terminal":
+  ansiColors:
+    normal:
+      black: "#003541"
+      blue: "#268bd2"
+      cyan: "#2aa198"
+      green: "#859901"
+      magenta: "#d33682"
+      red: "#dc322f"
+      white: "#eee8d5"
+      yellow: "#b58901"
+  core:
+    scrollback: 10000
+  iconColors:
+    blue: "#0433ff"
+  style:
+    fontFamily: "Meslo LG M DZ for Powerline"
+    fontSize: "16"
+    theme: "solarized-dark"
+  zBright:
+    brightBlack: "#002833"
+    brightBlue: "#839496"
+    brightCyan: "#93a1a1"
+    brightGreen: "#586e75"
+    brightMagenta: "#6c6ec6"
+    brightRed: "#cb4b16"
+    brightWhite: "#fdf6e3"
+    brightYellow: "#657b83"
+  toggles:
+    autoClose: true
+    runInsertedText:false
+```
 
 ## Reference
 

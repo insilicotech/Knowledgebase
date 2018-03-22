@@ -8,6 +8,10 @@ toc: false
 
 # Elm Guide Book
 
+## Concepts
+
+### Type & Type Variable
+
 ## Installation
 
 -   Python@2 is must
@@ -25,10 +29,10 @@ $ atom install elm-format
 
 ### Editor Atom Packages
 
-- language-elm
-- elmjutsu
-- elm-format
-- linter-elm-make
+-   language-elmÂ
+-   elmjutsu
+-   elm-format
+-   linter-elm-make
 
 ### Elm Commands
 
@@ -41,8 +45,8 @@ $ atom install elm-format
 
 ### Learning from History
 
-- **NULL** Tony Hoare's billion-dollar mistake
-- **Exception** Joel Spolsky CEO of StackOverflow blame on exception.
+-   **NULL** Tony Hoare's billion-dollar mistake
+-   **Exception** Joel Spolsky CEO of StackOverflow blame on exception.
 
 ### Partial Function Application
 
@@ -137,6 +141,10 @@ escapeEarth velocity speed =
 
 -   [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 
+### Blog
+
+-   [Elm-Blog: Google Summer of Code 2017](http://elm-lang.org/blog/google-summer-of-code-2017)
+
 ### Cheat sheet
 
 -   [Cheat-sheet](https://github.com/izdi/elm-cheat-sheet)
@@ -151,7 +159,11 @@ escapeEarth velocity speed =
 -   [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b)
 -   [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
 
-### MISC
+### Javascript Functional Programming
+
+-   [Mostly adequate guild](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+
+    ### MISC
 
 -   [Mark Sheet](https://marksheet.io/)
 -   [elm-format binary](https://github.com/avh4/elm-format/releases/download/0.7.0-exp/elm-format-0.18-0.7.0-exp-win-i386.zip)
