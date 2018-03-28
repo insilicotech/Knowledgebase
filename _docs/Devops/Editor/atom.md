@@ -34,6 +34,9 @@ $ apm install emmet
 |          |                    | autocomplete                                                                | `$ apm install vue2-autocomplete`     |
 | Language | Elm                | [language-elm](https://atom.io/packages/language-elm)                       | `$ apm install language-elm`          |
 |          |                    | elm-oracle                                                                  | `$ npm install -g elm-oracle`         |
+| Editing  | Autocomplete       | autocomplete-snippets                                                       | `$ apm install autocomplete-snippets` |
+| Lint     | Syntax/Format      | atom-beautify                                                               | `$ apm install atom-beautify`         |
+|React | react| react `$ apm install react`|
 
 ## Setting
 
@@ -90,11 +93,19 @@ $ apm install emmet
     runInsertedText:false
 ```
 
+## Trouble Shooting
+
+> Turns out in my case, another package I installed stole that mapping. I hit CMD+. (CTRL+. on Windows) to launch the keyboard resolver and then hit CTRL+SHIFT+M and it showed another package as the one responding to the mapping and not the Markdown Package. I ended up uninstalling that other package, but I could have easily remapped that package to another key combo.
+
 ## Reference
 
 -   [Awesome Atom](https://github.com/mehcode/awesome-atom)
 -   [Atom Keyboard shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
 -   [Atom Tips](https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/)
+
+### CheatSheet
+
+-   [Atom Editor Cheat Sheet (Bugsnag)](https://blog.bugsnag.com/atom-editor-cheat-sheet/)
 
 ### Themes
 
