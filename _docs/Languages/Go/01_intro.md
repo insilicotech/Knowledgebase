@@ -18,4 +18,10 @@ $ tar -C /usr/local -xzf go$VERSION.$OS-$ARCH.tar.gz
 
 ## Reference
 
-- [Awesome Go](https://github.com/avelino/awesome-go)
+### Awesome
+
+-   [Awesome Go](https://github.com/avelino/awesome-go)
+
+### Profiling
+
+-   [](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
