@@ -12,7 +12,6 @@ toc: false
 
 ### Install Flutter SDK
 
-
 ```bash
 # 0. Preinstallation Preparation (Mac)
 $ sudo xcode-select --switch /Applications/Xcode-beta.app/Contents/Developer
@@ -37,6 +36,13 @@ $ flutter doctor -v
 
 # 2. Editor Setup
 ```
+
+## Build Application
+
+```bash
+$ flutter create myapp
+```
+
 #### Reference
 
 - [Cocoapods not work in macos
